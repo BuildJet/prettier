@@ -15,6 +15,7 @@ jobs:
       matrix:
         os:
           - "ubuntu-latest"
+          - "self-hosted"
           - "macos-latest"
           - "windows-latest"
         node:
